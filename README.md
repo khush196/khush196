@@ -110,7 +110,7 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/khush196](https://www.linkedin.com/in/khush-paliwal/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/khush-paliwal/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://khush196.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectwithkhush@gmail.com)
 </div>
@@ -123,7 +123,8 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/khush196/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/khushh196/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
