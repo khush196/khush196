@@ -123,7 +123,7 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/khush196/khush196/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/khush196/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
 
 </div>
 
