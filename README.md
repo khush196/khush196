@@ -2,9 +2,12 @@
   
 # 👋 Hi, I'm Khush! 
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=khush196&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 <img src="https://komarev.com/ghpvc/?username=khush196&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-[![GitHub followers](https://img.shields.io/github/followers/khush196? label=Followers&style=social)](https://github.com/khush196)
+
 [![GitHub stars](https://img.shields.io/github/stars/khush196?label=Stars&style=social)](https://github.com/khush196)
 
 </div>
@@ -81,17 +84,6 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=khush196&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
