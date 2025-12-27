@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Khush! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=khush196&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 <img src="https://komarev.com/ghpvc/?username=khush196&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -67,10 +67,6 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
 ### 📈 GitHub Stats
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khush196&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -92,20 +88,6 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 </div>
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=khush196&repo=khush196&theme=tokyonight&hide_border=true)](https://github.com/khush196/khush196)
-
-</div>
-
-> 💡 **Tip**: Check out my pinned repositories below for more awesome projects!
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -117,18 +99,6 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 ---
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/khushh196/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg)
-
-
-</div>
-
----
 
 <div align="center">
 
