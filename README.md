@@ -67,18 +67,6 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 ---
 
-### 📈 GitHub Stats
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khush196&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp. com/?user=khush196&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### 💻 Most Used Languages
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush196&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=khush196&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
-
-</div>
-
 ---
 ## 📈 Contribution Graph
 
@@ -92,9 +80,8 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/khush-paliwal/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://khush196.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectwithkhush@gmail.com)
+[![LinkedIn]]((https://www.linkedin.com/in/khush-paliwal/))
+[![Email]](mailto:connectwithkhush@gmail.com)
 </div>
 
 ---
