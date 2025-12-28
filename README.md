@@ -81,7 +81,7 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 <div align="center">
 
 [![LinkedIn]]((https://www.linkedin.com/in/khush-paliwal/))
-[![Email]](mailto:connectwithkhush@gmail.com)
+[![Email]](mailto:connectwithkhush@gmail.com))
 </div>
 
 ---
