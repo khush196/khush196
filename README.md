@@ -76,14 +76,6 @@ learning:  ["New Technologies", "Best Practices", "System Design"]
 
 </div>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn]]((https://www.linkedin.com/in/khush-paliwal/))
-[![Email]](mailto:connectwithkhush@gmail.com))
-</div>
-
 ---
 
 
